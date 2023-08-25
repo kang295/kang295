@@ -1,7 +1,11 @@
-### Hi there 👋
+### About me
 
-<!--
-**kang295/kang295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hi 👋, This is Hyoju Kang, an aspiring data scientist who brings positive changes to the world.</h1>
+<h3 aligh="left">I think data has the power to solve problems that have not been solved to date!</h3>
+
+
+
+
 
 Here are some ideas to get you started:
 
