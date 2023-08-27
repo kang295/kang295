@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hyojoo1531@gmail.com**
 
-- ⚡ Fun fact: **Love Playing and Watching Soccer and Listening to Jazz**
+- ⚡ Fun fact: **Love Playing Soccer (Tottenham Supporter) and Listening to Jazz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
