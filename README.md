@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **hyojoo1531@gmail.com**
 
-- ⚡ Fun fact: **Tottenham Fan(COYS) and Love Listening to Jazz music**
+- ⚡ Fun fact: **Tottenham Supporter(COYS) and Love Listening to Jazz music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
