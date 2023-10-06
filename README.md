@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyoju Kang</h1>
-- 👨‍💻 I’m currently studying at Carnegie Mellon University
+
+- 👨‍💻 I’m currently studying at **Carnegie Mellon University**
 
 - 🌱 I’m currently learning **Data Science and Analytics**
 
