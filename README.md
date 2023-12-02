@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Business Analytics**
 
-- 📫 How to reach me **hyojoo1531@gmail.com**
+- 📫 How to reach me **hyojukan@andrew.cmu.edu**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
