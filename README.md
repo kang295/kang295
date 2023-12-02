@@ -2,7 +2,7 @@
 
 - 👨‍💻 I’m currently studying at **Carnegie Mellon University**
 
-- 🌱 I’m currently learning **Data Science and Analytics**
+- 🌱 I’m currently learning **Business Analytics**
 
 - 📫 How to reach me **hyojoo1531@gmail.com**
   
