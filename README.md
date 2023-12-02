@@ -10,7 +10,7 @@
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.linkedin.com/in/your-linkedin-kanghyo/" target="blank">
+    <a href="https://www.linkedin.com/in/kanghyo/" target="blank">
         <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white" alt="kanghyo" height="30" />
     </a>
     <a href="https://www.leetcode.com/hyojoo1531" target="blank">
