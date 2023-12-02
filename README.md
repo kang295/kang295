@@ -35,9 +35,9 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     </a>
-    <!-- Power Bi -->
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
+    <!-- Tableau -->
+    <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
     </a>
     <!-- Matplotlib -->
     <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
