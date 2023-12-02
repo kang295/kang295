@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning **Data Science and Analytics**
 
 - 📫 How to reach me **hyojoo1531@gmail.com**
-
-- ⚡ Fun fact: **I love Soccer and Jazz**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
