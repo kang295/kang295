@@ -59,6 +59,10 @@
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
     </a>
+    <!-- Flask -->
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+    </a>
   
 </p>
 
