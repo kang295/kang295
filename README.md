@@ -63,6 +63,10 @@
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
     </a>
+    <!-- ChatGPT Badge -->
+    <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+</a>
   
 </p>
 
