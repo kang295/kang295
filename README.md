@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hyoju Kang</h1>
 
-- 👨‍💻 I’m currently studying at **Carnegie Mellon University**
+- 👨‍💻 I’m currently working at **LG Electronics**
 
-- 🌱 I’m currently learning **Business Analytics**
+- 🌱 Passionate about leveraging data science skills for impactful business outcomes.
 
 - 📫 How to reach me **hyojudata@gmail.com**
   
