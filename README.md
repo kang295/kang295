@@ -4,7 +4,7 @@
 
 - 🌱 Passionate about leveraging data science skills for impactful business outcomes.
 
-- 📫 How to reach me **hyojudata@gmail.com**
+- 📫 How to reach me **hyojudatajob@gmail.com**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
