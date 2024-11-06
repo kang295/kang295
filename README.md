@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hyoju Kang</h1>
 
-- 👨‍💻 I’m currently working at **LG Electronics**
+- 👨‍💻 I’m currently working at **LG Electronics** as Data Scientist
 
 - 🌱 Passionate about leveraging data science skills for impactful business outcomes.
 
